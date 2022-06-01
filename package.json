@@ -1,7 +1,7 @@
 {
   "name": "line-count-with-tsx",
   "main": "./lib/line-count",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "Show line counts for files in projects",
   "activationCommands": {
     "atom-workspace": [
