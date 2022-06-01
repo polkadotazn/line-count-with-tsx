@@ -2,7 +2,7 @@
 
 ### Usage
 
-Press ctrl-alt-shift-L (line-count:open) to open an editor page showing line counts broken down by file, directory, and file type for all files in the project.
+Press ctrl-alt-shift-L (line-count:open), (or ctrl-opt-shift-L for Mac) to open an editor page showing line counts broken down by file, directory, and file type for all files in the project.
 
 File suffixes supported are ..
 
@@ -69,6 +69,7 @@ File suffixes supported are ..
 - .svg
 - .swift
 - .ts
+- .tsx
 - .vb
 - .xml
 - .yaml

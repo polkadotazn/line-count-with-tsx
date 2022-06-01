@@ -68,6 +68,7 @@ suffixes = [
   "svg"
   "swift"
   "ts"
+  "tsx"
   "ttslua"
   "vb"
   "vue"
